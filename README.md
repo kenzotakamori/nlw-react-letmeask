@@ -5,9 +5,8 @@
 </h1>
 <p align="center">A site to connect, ask and answer in the rooms, giving a like and marked as answered. Developed in React with Firebase🚀</p>
 
-:computer: TECHNOLOGY:
-
 <p align="center">
+ Technologies: 
  <a href="https://reactjs.org/">React</a> •
  <a href="https://www.typescriptlang.org/docs/">TypeScript</a> • 
  <a href="https://www.npmjs.com/package/node-sass">Node-Sass</a> • 
